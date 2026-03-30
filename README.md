@@ -208,6 +208,9 @@ Text extraction is handled exclusively by `DocumentReaderService` using Spring A
 Test reports are written to `target/surefire-reports/`.
 
 ---
+<img width="1259" height="847" alt="image" src="https://github.com/user-attachments/assets/609dcc37-4256-4a5f-b9bc-696d46a2ac5c" />
+<img width="1285" height="846" alt="image" src="https://github.com/user-attachments/assets/f1368903-932a-4fb8-82d4-7d73e4338037" />
+
 
 ## Author
 
